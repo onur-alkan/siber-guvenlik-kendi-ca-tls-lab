@@ -1,0 +1,27 @@
+# Private keys and generated PKI secrets
+*.key
+*.csr
+*.srl
+
+# Mitmproxy temporary material
+.mitmproxy/
+**/.mitmproxy/
+mitmproxy-ca*.pem
+mitmproxy-ca*.cer
+mitmproxy-ca*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Packet captures are kept local by default
+*.pcap
+*.pcapng
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

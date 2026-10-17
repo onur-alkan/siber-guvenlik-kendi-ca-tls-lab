@@ -1,0 +1,7 @@
+=== X25519 Anahtar Degisimi Demo ===
+Alice ve Bob farklı anahtar çiftleri üretir.
+Her iki taraf exchange() sonunda aynı shared secret değerine ulaşır.
+Dogrulanan sonuç:
+Ortak anahtarlar esit mi?: True
+
+Not: Anahtarlar her çalıştırmada yeniden üretildiğinden hex değerleri değişir.

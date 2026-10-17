@@ -1,0 +1,6 @@
+=== Ed25519 Dijital Imza Demo ===
+Mesaj: Siber Guvenlik Dersi - Onur Alkan - 232923044
+Dogrulama: BASARILI
+Degistirilmis mesaj: REDDEDILDI
+
+Not: Ed25519 anahtarları ve imza her çalıştırmada yeniden üretildiğinden imza hex değeri değişebilir.
